@@ -1,12 +1,31 @@
-## Data-Logger
-Basically, a device to log run time data via provided sensor network of any heavy duty machine or automobile etc. This project have been developed using arduino, raspberry pi and various sensors like MPU-6050, wind rev P, Inductive Proximity etc.
+### Data-Logger
 
-Here, we are aquiring the filtered sensor data from various parts of the automobile, to validate the design and make improvements in future work.
-Here, i will be uploading all the raw files of fully descreptive Arduino C and python codes 
+In basic terms, A data logger is an electronic device that records data over time or in relation to location either with a built in instrument or sensor or via external instruments and sensors.
 
+So, my project is Telemetry based device to log and send the data online at run time through embedded sensor network on any heavy duty machine or automobile etc. This project have been developed using arduino, raspberry pi and various sensors.
 
-##**Prerequisites:-**
-->For hardware you would need 
- 1. Arduino (Arduino Uno highly recommended)
- 2. Raspberry pi (version 3 highly recommended)
- 3. Online platform (Caynne-My
+In automobile industry data loggers are suppose to aquire filtered sensor data from various parts of the automobile and validate the design to make improvements in their future work.
+ 
+## **Prerequisites:-**)
+```
+ 1. Arduino Board (Arduino Uno highly recommended)
+ 2. Arduino IDE-[Software](https://www.arduino.cc/en/Main/Software)
+ 3. Raspberry pi (version 3 highly recommended)
+ 4. Online platform (Caynne-MyDevices)
+ 5. Senors:-
+    1. Accelerometer- MPU-6050
+    2. Gyroscope- MPU-6050
+    3. Air Speed Sensor- Wind Sensor Rev.P
+    4. Speed Sensor- Inductive Proximity Senor(NO-NPN type)
+    5. Coolant Temprature sensor
+    6. Gear shifter sensor
+    7. Linear Potentiometers
+    8. Load Cells
+    9. Strain Gauge
+ 6. Oled Display( 128*64)
+ 7. 2mm Single strand wires
+ 8. Sldering Iron and wire
+ 9. Dot Matrix( any PCB would work.)
+
+ 
+```
