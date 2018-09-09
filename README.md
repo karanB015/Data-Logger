@@ -26,6 +26,8 @@ In automobile industry data loggers are suppose to aquire filtered sensor data f
  7. 2sqmm Single strand wires
  8. Sldering Iron and wire
  9. Dotted PCB
+ 10.RMC Connectors ( 2, 4 and 6 pin)
+ 
 
  
 ```
