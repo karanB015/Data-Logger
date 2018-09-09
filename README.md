@@ -1,8 +1,8 @@
 ### Data-Logger
 
-In basic terms, A data logger is an electronic device that records data over time or in relation to location either with a built in instrument or sensor or via external instruments and sensors.
+In basic terms, A data logger is an electronic device that records data over time or in relation to location either with a built in instrument or external instruments and sensors.
 
-So, my project is Telemetry based device to log and send the data online at run time through embedded sensor network on any heavy duty machine or automobile etc. This project have been developed using arduino, raspberry pi and various sensors.
+So, this project is Telemetry based device to log and send the data online at run time through embedded sensor network on any heavy duty machine or automobile etc. This project have been developed using arduino, raspberry pi and various sensors.
 
 In automobile industry data loggers are suppose to aquire filtered sensor data from various parts of the automobile and validate the design to make improvements in their future work.
  
@@ -23,9 +23,9 @@ In automobile industry data loggers are suppose to aquire filtered sensor data f
     8. Load Cells
     9. Strain Gauge
  6. Oled Display( 128*64)
- 7. 2mm Single strand wires
+ 7. 2sqmm Single strand wires
  8. Sldering Iron and wire
- 9. Dot Matrix( any PCB would work.)
+ 9. Dotted PCB
 
  
 ```
